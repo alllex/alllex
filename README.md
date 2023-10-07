@@ -2,15 +2,15 @@
 
 Here is my internet business card:
 <pre><code>╔═══════════════════════════════════╗
-║ Internet citizen       <a href="https://twitter.com/alllexist" target="_blank" rel="noopener noreferrer">@alllexist</a> ║
+║ Internet citizen       <a href="https://twitter.com/alllexist">@alllexist</a> ║
 ║                __      __         ║
 ║             /\ \ \____/ /         ║
 ║            /  \ \  __  /          ║
 ║           / /\ \ \ \/ /           ║
-║          /  ‾‾  \ \  /            ║
-║         /_/‾‾‾‾\_\ \/             ║
+║          / ____ \ \  /            ║
+║         /_/    \_\ \/             ║
 ║                                   ║
-║                    <a href="https://blog.alllex.me/" target="_blank" rel="noopener noreferrer">Blog by alllex</a> ║
+║                    <a href="https://blog.alllex.me/">Blog by alllex</a> ║
 ╚═══════════════════════════════════╝</code></pre>
 
 <!--
@@ -20,8 +20,8 @@ Here is my internet business card:
 ║             /\ \ \____/ /         ║
 ║            /  \ \  __  /          ║
 ║           / /\ \ \ \/ /           ║
-║          /  ‾‾  \ \  /            ║
-║         /_/‾‾‾‾\_\ \/             ║
+║          / ____ \ \  /            ║
+║         /_/    \_\ \/             ║
 ║                                   ║
 ║                    Blog by alllex ║
 ╚═══════════════════════════════════╝
