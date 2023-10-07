@@ -1,16 +1,31 @@
 ### Hi there 👋
 
+Here is my internet business card:
+<pre><code>╔═══════════════════════════════════╗
+║ Internet citizen       <a href="https://twitter.com/alllexist" target="_blank" rel="noopener noreferrer">@alllexist</a> ║
+║                __      __         ║
+║             /\ \ \____/ /         ║
+║            /  \ \  __  /          ║
+║           / /\ \ \ \/ /           ║
+║          /  ‾‾  \ \  /            ║
+║         /_/‾‾‾‾\_\ \/             ║
+║                                   ║
+║                    <a href="https://blog.alllex.me/" target="_blank" rel="noopener noreferrer">Blog by alllex</a> ║
+╚═══════════════════════════════════╝</code></pre>
+
 <!--
-**alllex/alllex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+╔═══════════════════════════════════╗
+║ Internet citizen       @alllexist ║
+║                __      __         ║
+║             /\ \ \____/ /         ║
+║            /  \ \  __  /          ║
+║           / /\ \ \ \/ /           ║
+║          /  ‾‾  \ \  /            ║
+║         /_/‾‾‾‾\_\ \/             ║
+║                                   ║
+║                    Blog by alllex ║
+╚═══════════════════════════════════╝
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://twitter.com/alllexist">@alllexist</a>
+<a href="https://blog.alllex.me/">Blog by alllex</a>
 -->
