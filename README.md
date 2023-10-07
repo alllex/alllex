@@ -14,6 +14,9 @@ Here is my internet business card:
 ╚═══════════════════════════════════╝</code></pre>
 
 <!--
+Box drawing: http://marklodato.github.io/js-boxdrawing/
+Ascii art starter: https://patorjk.com/software/taag/
+
 ╔═══════════════════════════════════╗
 ║ Internet citizen       @alllexist ║
 ║                __      __         ║
